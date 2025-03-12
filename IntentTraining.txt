@@ -1,0 +1,555 @@
+# Eat command variations
+eat_command    Time to eat
+eat_command    Have some food
+eat_command    Eat your meal
+eat_command    Dinner is ready
+eat_command    It's time for food
+eat_command    Come and eat
+eat_command    Your food is served
+eat_command    Your bowl is full, go eat
+eat_command    Mmm, fresh food for you
+eat_command    Don't be shy, eat up!
+eat_command    Time for your tasty meal
+eat_command    Go enjoy your delicious food
+eat_command    Eat before it gets cold
+eat_command    Your favorite treat is waiting!
+eat_command    You must be hungry, go eat
+eat_command    Take a bite, kitty!
+eat_command    It’s snack time!
+eat_command    Have some yummy food
+eat_command    Here's your meal, enjoy!
+eat_command    Eat up, little one!
+eat_command    Fresh food for you
+eat_command    Your food is waiting.
+eat_command    Eat before it gets cold.
+eat_command    Your bowl is full.
+eat_command    You must be hungry.
+eat_command    Have some food.
+eat_command    Enjoy your meal.
+eat_command    Time to eat!
+eat_command    Come have some food.
+eat_command    Your meal is ready!
+eat_command    Take a bite.
+eat_command    Let’s eat together!
+eat_command    Food is served, enjoy!
+eat_command    Your plate is full, dig in!
+eat_command    Fresh food just for you.
+eat_command    Time to enjoy a delicious meal.
+eat_command    You must be hungry, let’s eat!
+eat_command    No skipping meals, eat now!
+eat_command    It’s food o’clock!
+eat_command    fuel up with some good food.
+eat_command    Take a break and have some food.
+eat_command    Your stomach needs this, go eat!
+eat_command    Good food, good mood
+eat_command    You deserve a good meal, enjoy!
+eat_command    Fill up your tummy with something tasty.
+eat_command    Time for a snack break!
+eat_command    You’ll feel better after a good meal.
+eat_command    I have cooked something for you
+eat_command    Let me feed you.
+eat_command    Let’s sit down and enjoy a meal together.
+eat_command    Ready for dinner date
+eat_command    Dinner
+eat_command   Supper
+eat_command   Lunch
+eat_command   Breakfast
+eat_command   Rat
+eat_command Treat yourself to something tasty.
+eat_command You’re going to love this meal.
+eat_command Time to enjoy your favorite food!
+eat_command Eating is self-care, don’t forget!
+eat_command Take small bites.
+eat_command The table is set, let’s eat.
+eat_command Take your time and enjoy your meal.
+eat_command Can we share please?
+eat_command Looks yum
+eat_command A warm meal makes everything better.
+eat_command Take a break and have some good food.
+eat_command Open your mouth 
+eat_command Just one bite
+eat_command say aaaa
+eat_command You deserve something delicious today
+eat_command It’s time to satisfy that hunger!
+eat_command Every bite is a little moment of joy.
+eat_command Your stomach is growling
+eat_command Every meal is a blessing, eat it.
+eat_command The best things in life include good food!
+eat_command A meal made with love—just for you.
+eat_command Get ready for some serious deliciousness!
+eat_command The smell alone should make you hungry!
+eat_command Let’s fill that empty stomach!
+eat_command This meal will make your day better.
+eat_command Time to refuel with something tasty!
+eat_command Are you hungry again?
+eat_command Your next great meal starts now!
+eat_command A happy meal for a happy you.
+eat_command Let the feast begin!
+eat_command You’ll feel recharged after a good meal.
+eat_command Fill up with something nourishing.
+eat_command Your stomach will thank you for this.
+eat_command Taste the love in every bite!
+eat_command Milk before sleep is important.
+eat_command I know you love fish.
+eat_command Fish for you.
+eat_command Cookies for you.
+eat_command Nothing beats a good meal!
+eat_command You deserve a full belly and a happy heart.
+eat_command Don’t rush, just enjoy.
+eat_command    Ready for dinner date
+eat_command    Dinner is served
+eat_command    Supper is ready
+eat_command    Lunch is served
+eat_command    Breakfast is ready
+eat_command    Time for dinner
+eat_command    Let's eat
+eat_command    Grab your meal
+eat_command    Come eat dinner
+eat_command    It's time to eat
+eat_command    Ready for lunch
+eat_command    Let's have supper
+eat_command    It's breakfast time
+eat_command    Food time
+eat_command    Enjoy your meal
+eat_command    Your meal is here
+eat_command    Meal's ready
+eat_command    Dinner is here
+eat_command    Lunch time!
+eat_command    It's time for a snack
+eat_command    Time for breakfast
+eat_command    Grab some food
+eat_command    Come get your dinner
+eat_command    It's mealtime
+eat_command    Time to eat some food
+eat_command    Let's grab some supper
+eat_command    Time for a bite
+eat_command    Go ahead, eat
+eat_command    Dig in!
+eat_command    Your snack is waiting
+eat_command    Food's on the table
+eat_command    Time for a tasty meal
+eat_command    Your bowl is ready
+eat_command    It's time for your snack
+eat_command    Let's eat together
+eat_command    Don't miss your meal
+eat_command    Enjoy your snack
+eat_command    Grab a bite to eat
+eat_command    Go ahead, enjoy your dinner
+eat_command    Have your lunch now
+eat_command    Let's have some food
+eat_command    Your food is served
+eat_command    Enjoy your breakfast
+eat_command    Don't wait, dinner's here
+eat_command    Grab that snack
+eat_command    Ready for a meal?
+eat_command    Come and eat now
+eat_command    Have some food now
+eat_command    It's snack time
+eat_command    Have your treat now
+eat_command    Your favorite meal is waiting
+eat_command    Have your dinner
+eat_command    Meal's ready to go
+eat_command    Time for some grub
+eat_command    The food's ready
+eat_command    Let's have some lunch
+eat_command    Supper's ready for you
+eat_command    Time to eat something yummy
+eat_command    Your dinner's waiting
+eat_command    It's time for a fresh meal
+eat_command    Get your breakfast now
+eat_command    Time for a delicious dinner
+eat_command    Eat your lunch
+eat_command    It's time to snack
+eat_command    Your food awaits you
+eat_command    Meal time, eat up
+eat_command    Take your food
+eat_command    Time to munch
+eat_command    Time for a yummy meal
+eat_command    Time for a little snack
+eat_command    Ready to eat?
+eat_command    Dig in, your food is here
+eat_command    It's lunch time, eat up
+eat_command    Don't wait, eat your dinner
+eat_command    Your food is ready, enjoy
+eat_command    Take a bite, enjoy
+eat_command    Your meal is calling
+eat_command    Come, eat your snack
+eat_command    Ready for your dinner?
+eat_command    It's time for lunch
+eat_command    Enjoy your meal now
+eat_command    It's meal time, eat up
+eat_command    Your breakfast is waiting
+eat_command    Dinner time, eat up
+eat_command    Ready to eat some lunch?
+eat_command    Come, take a bite
+eat_command    Let's eat and enjoy
+eat_command    It's time for food, go eat
+eat_command    Have a snack now
+eat_command    Your meal is all set
+eat_command    It's time to eat together
+eat_command    Your treat is ready
+eat_command    Your dinner is waiting for you
+eat_command    Come get your meal
+eat_command    Enjoy your food, it's ready
+eat_command    Time to chow down
+eat_command    Your favorite meal is here
+eat_command    Eat your treat, it's waiting
+eat_command    Get ready to eat
+eat_command    Time for dinner, enjoy
+eat_command    Your breakfast is ready
+eat_command    Meal time, enjoy your food
+eat_command    Time to have your snack
+eat_command    Go ahead, have your dinner
+eat_command    Food’s ready, eat up!
+
+# Sleep command variations
+sleep_command    Go to sleep
+sleep_command    Take a nap
+sleep_command    Rest for a while
+sleep_command    Sleep now
+sleep_command    Close your eyes and sleep
+sleep_command    Time for a catnap
+sleep_command    You look sleepy
+sleep_command    Find a cozy spot and sleep
+sleep_command    Time to rest those paws
+sleep_command    Snuggle up and get some sleep
+sleep_command    Get some rest
+sleep_command    Curl up and nap
+sleep_command    The sun is warm, take a nap
+sleep_command    It's bedtime, go sleep
+sleep_command    Sleep tight, kitty
+sleep_command    Lay down and relax
+sleep_command    Get comfortable and sleep
+sleep_command    I am turning off lights, good night.
+sleep_command    I am sleeping, you should too.
+sleep_command    Stretch and snooze, little one
+sleep_command    Time to sleep, little friend
+sleep_command    Find a comfy place and nap
+sleep_command    Go rest, you’ve earned it
+sleep_command    Take a little rest
+sleep_command    Close your eyes and rest
+sleep_command    It’s nap time
+sleep_command    Take a deep breath and sleep
+sleep_command    Time to drift off
+sleep_command    Sleep well, little one
+sleep_command    Let your eyes close and sleep
+sleep_command    Nap time, go rest
+sleep_command    It's cozy time, go sleep
+sleep_command    Take a break and nap
+sleep_command    Take a quiet nap now
+sleep_command    Your bed is waiting for you
+sleep_command    Close your eyes and rest now
+sleep_command    Time to relax and sleep
+sleep_command    Have a peaceful nap
+sleep_command    Get your rest, kitty
+sleep_command    Time to recharge, go sleep
+sleep_command    Sweet dreams, sleepyhead
+sleep_command    Rest up, sleepy kitty
+sleep_command    It's time to sleep
+sleep_command    Go take a snooze
+sleep_command    Settle down for a nap
+sleep_command    Time to sleep, dear one
+sleep_command    Go to your cozy spot and nap
+sleep_command    Relax and close your eyes
+sleep_command    Take a quick snooze
+sleep_command    Go lay down and rest
+sleep_command    It's time for a nap, go sleep
+sleep_command    Go rest and recharge
+sleep_command    Lie down and relax, sleep time
+sleep_command    Time for a cozy nap
+sleep_command    Time to close your eyes and sleep
+sleep_command    Get some shut-eye now
+sleep_command    Aw you look tired, lay down
+sleep_command    Time to sleep, rest up
+sleep_command    Time for your beauty sleep
+sleep_command    Have a restful night
+sleep_command    Take a power nap
+sleep_command    Lay down and relax, it's nap time
+sleep_command    Nap time, close your eyes
+sleep_command    Settle in and sleep
+sleep_command    Time to curl up and sleep
+sleep_command    Snuggle up and rest
+sleep_command    Time to take it easy and nap
+sleep_command    Get comfy and sleep
+sleep_command    Lay down and snooze
+sleep_command    Drift off into sleep now
+sleep_command    Rest now, little one
+sleep_command    Close your eyes and dream
+sleep_command    Sleep now, tomorrow is another day
+sleep_command    Take a moment to nap
+sleep_command    It's sleep time, little one
+sleep_command    Get cozy and rest now
+sleep_command    Time to wind down and sleep
+sleep_command    Nap time, enjoy your rest
+sleep_command    It's time to relax and sleep
+sleep_command    Close your eyes and rest, sweet dreams
+sleep_command    Find your favorite spot and nap
+sleep_command    Get your beauty sleep now
+sleep_command    Rest easy, my little one
+sleep_command    Time to snuggle and nap
+sleep_command    Take a break, take a nap
+sleep_command    Go to your spot and sleep
+sleep_command    Sleep now, sleepyhead
+sleep_command    Close your eyes and drift away
+sleep_command    Relax and drift off to sleep
+sleep_command    It's time to sleep now
+sleep_command    Find your blanket and sleep
+sleep_command    Time to sleep and rest up
+sleep_command    Take a nap, it's time for rest
+sleep_command    Go sleep, you'll feel better
+sleep_command    Close your eyes, it's nap time
+sleep_command    Time to take a rest
+sleep_command    Rest your mind and body
+sleep_command    Get some rest, sleepy kitty
+sleep_command    Time for your afternoon nap
+sleep_command    Enjoy a peaceful nap
+sleep_command    Sleep well, you deserve it
+sleep_command    Take a moment for your nap
+sleep_command    Sweet dreams, go to sleep now
+sleep_command    Get comfy, it’s nap time
+sleep_command    It's time for some deep sleep
+sleep_command    Lay down, it’s time to sleep
+sleep_command    Rest now, tomorrow’s a new day
+sleep_command    Time to drift off to sleep
+sleep_command    Take a quick rest
+sleep_command    Close your eyes, it’s nap time
+sleep_command    Time for a refreshing nap
+sleep_command    Rest now and take it easy
+
+# Play command variations
+play_command    Let's play
+play_command    Want to play?
+play_command    Get your toy
+play_command    Time to have fun
+play_command    Play with me
+play_command    Chase the ball
+play_command    Run around
+play_command    It's playtime, kitty!
+play_command    Catch this string!
+play_command    Pounce on it, go!
+play_command    Show me your hunting skills
+play_command    Swipe at the feather toy!
+play_command    Go wild, have fun!
+play_command    Jump and chase!
+play_command    The laser dot is waiting!
+play_command    Let's see how fast you are!
+play_command    Come play with your toy mouse
+play_command    Catch the moving toy!
+play_command    Time to practice your hunting moves
+play_command    Bat at this ball, kitty!
+play_command    Let’s play, it's fun time!
+play_command    Want to play? I'm ready!
+play_command    How about some fun?
+play_command    Let’s have some playtime!
+play_command    Wanna play together?
+play_command    Let's chase that ball!
+play_command    Time for a little run!
+play_command    Play with me, it’ll be fun!
+play_command    Let’s catch this!
+play_command    Ready for some action?
+play_command    It’s game time, let’s go!
+play_command    Come on, let’s have some fun!
+play_command    Want to try and catch it?
+play_command    Ready to pounce? Go!
+play_command    Let’s make it a game!
+play_command    Time to show your skills!
+play_command    Let’s see who’s faster!
+play_command    Want to race? Let’s go!
+play_command    Catch the ball if you can!
+play_command    Let’s chase it down!
+play_command    Playtime’s here, let’s go!
+play_command    Time to play with the laser!
+play_command    Wanna catch the string?
+play_command    Who’s ready to jump and chase?
+play_command    Let’s have some fun together!
+play_command    Let’s see if you can catch me!
+play_command    I’ve got a fun game for you!
+play_command    Catch the toy and let's go!
+play_command    Time to catch this, go!
+play_command    Let’s get that moving toy!
+play_command    I bet you can't catch it!
+play_command    Ready, set, pounce!
+play_command    Let's have a little fun, shall we?
+play_command    Play catch with me!
+play_command    Let’s see if you can catch this!
+play_command    Try and catch it, I’m waiting!
+play_command    It’s your turn, catch it!
+play_command    Show me what you’ve got!
+play_command    Let’s catch it together!
+play_command    Can you catch the feather toy?
+play_command    Let’s race for the toy!
+play_command    Can you catch the moving toy?
+play_command    Time for some fun action!
+play_command    Come on, let’s jump and catch!
+play_command    Go on, try to catch it!
+play_command    Try and catch the laser!
+play_command    Want to play with your toy mouse?
+play_command    Let’s see how fast you are!
+play_command    I’ve got the perfect toy for you!
+play_command    Let’s see how quick you can catch it!
+play_command    Can you catch it before it’s gone?
+play_command    Let’s make this fun, come on!
+play_command    I’ve got something fun for you!
+play_command    Show me your play moves!
+play_command    Who's ready for some play?
+play_command    Let’s chase after that toy!
+play_command    How fast can you catch it?
+play_command    Time to chase the ball!
+play_command    Ready to pounce on that toy?
+play_command    Catch it if you can!
+play_command    Let’s jump and play together!
+play_command    Ready for a playful challenge?
+play_command    Can you catch it faster than me?
+play_command    Time for some toy action!
+play_command    Let’s do some running and jumping!
+play_command    Let’s catch that feather toy!
+play_command    Playtime is waiting for you!
+play_command    Time for a quick game of catch!
+play_command    I’ve got a toy for you to chase!
+play_command    Let’s see who can catch it first!
+play_command    Wanna play catch with me?
+play_command    Let’s see how well you can jump!
+play_command    Time for some toy chasing fun!
+play_command    Let's play with the ball!
+play_command    Come chase after me!
+play_command    I bet you can’t catch this one!
+play_command    Let’s make this a fun challenge!
+play_command    Wanna race to catch it?
+play_command    It’s time for a little playtime!
+play_command    Let’s see if you can catch me!
+play_command    Come on, let’s do some playing!
+play_command    Let’s see how high you can jump!
+play_command    It’s playtime, catch the toy!
+play_command    Let’s see who can catch it first!
+play_command    Catch this and let's have some fun!
+play_command    I’ve got a toy for you, ready?
+play_command    Let’s chase the ball together!
+play_command    Let’s race, ready to go?
+play_command    Catch it, I’m waiting!
+play_command    Ready to catch the string?
+play_command    Let’s play, it’s your turn!
+play_command    Try to catch it before I do!
+play_command    Let’s race, ready to pounce?
+play_command    Let’s have some fun chasing!
+play_command    Time for a quick catch, go!
+play_command    Come on, try and catch this!
+play_command    Ready for some toy action?
+play_command    Who’s up for a fun game?
+
+
+# Sit command variations
+sit_command    Sit down, sweetie
+sit_command    Stay here, little one
+sit_command    Sit still, please
+sit_command    Stop and sit down
+sit_command    Be a good kitty, sit
+sit_command    Take a seat, buddy
+sit_command    Relax, sit here
+sit_command    Sit and watch me
+sit_command    Sit for a bit, okay?
+sit_command    Rest your legs, sit down
+sit_command    Sit and wait for your treat
+sit_command    Don't move, just sit
+sit_command    Stay right here, sweetie
+sit_command    Find a comfy spot and sit
+sit_command    Watch me while you sit
+sit_command    Sit and look around
+sit_command    Sit patiently, good kitty
+sit_command    You can sit next to me
+sit_command    No running, just sit
+sit_command    Sit tight, fun is coming!
+sit_command    Sit down, let's relax
+sit_command    Sit and be calm
+sit_command    Find your place and sit
+sit_command    Let's sit together
+sit_command    Take a little break, sit down
+sit_command    Sit with me for a while
+sit_command    Sit here, we're relaxing
+sit_command    Please sit, sweetie
+sit_command    Sit, let’s rest a bit
+sit_command    Time to sit, darling
+sit_command    Sit down, you're safe
+sit_command    Stay with me, sit
+sit_command    Sit close to me, okay?
+sit_command    Sit down and take a rest
+sit_command    Be still and sit
+sit_command    Rest and sit here
+sit_command    Sit and look at the world
+sit_command    Sit right here with me
+sit_command    Take a break, sit down
+sit_command    Sit down and take it easy
+sit_command    Let's sit and chat
+sit_command    Sit and watch the birds
+sit_command    Sit and listen, baby
+sit_command    Sit, we’re relaxing now
+sit_command    Sit and rest, little one
+sit_command    Sit next to me, sweetie
+sit_command    Take a seat, my dear
+sit_command    Sit in your favorite spot
+sit_command    Sit quietly, please
+sit_command    Sit and take it easy
+sit_command    Rest for a moment and sit
+sit_command    Sit down with me, love
+sit_command    Sit up straight, please
+sit_command    Sit still and enjoy
+sit_command    Sit, we’ll have some fun soon
+sit_command    Sit and relax for a minute
+sit_command    Let’s sit here and rest
+sit_command    Sit and wait for your turn
+sit_command    Sit, we’re waiting now
+sit_command    Sit and watch the clouds
+sit_command    Sit down and take a break
+sit_command    Sit and enjoy the view
+sit_command    Sit tight, don't move
+sit_command    Sit here and look around
+sit_command    Sit with your toy
+sit_command    Sit here and be comfy
+sit_command    Sit, you're doing great
+sit_command    Sit, take your time
+sit_command    Sit down and breathe easy
+sit_command    Sit here and feel cozy
+sit_command    Sit with me and relax
+sit_command    Sit down and rest your head
+sit_command    Sit on your cushion
+sit_command    Sit here, my sweet one
+sit_command    Sit down, you look tired
+sit_command    Sit and calm down
+sit_command    Sit down, it’s time to rest
+sit_command    Find a spot and sit comfortably
+sit_command    Sit, I’ll be right here
+sit_command    Sit and enjoy the peace
+sit_command    Sit with me for a moment
+sit_command    Sit, everything's okay
+sit_command    Sit tight, we’re going soon
+sit_command    Sit and rest your body
+sit_command    Sit, you're safe here
+sit_command    Sit down, we’re having fun soon
+sit_command    Sit and feel calm
+sit_command    Sit and take a little rest
+sit_command    Sit and feel good
+sit_command    Sit, let’s take it easy
+sit_command    Sit, you deserve a break
+sit_command    Sit, it's a calm moment
+sit_command    Sit, enjoy the peace
+sit_command    Sit and take in the sights
+sit_command    Sit, it’s time to relax
+sit_command    Sit down and watch the world
+sit_command    Sit down and rest your feet
+sit_command    Sit here and wait with me
+sit_command    Sit close, you’re doing great
+sit_command    Sit and smile
+sit_command    Sit here and be cozy
+sit_command    Sit, you're doing wonderfully
+sit_command    Sit and take it slow
+sit_command    Sit down, let’s unwind
+sit_command    Sit and listen to the sounds
+sit_command    Sit with me, my dear one
+sit_command    Sit and enjoy the quiet
+sit_command    Sit for a moment, you're good
+sit_command    Sit and feel at ease
+sit_command    Sit down and enjoy the calm
+sit_command    Sit, we’ll be together
+sit_command    Sit down and breathe deep
+sit_command    Sit and relax your muscles
+sit_command    Sit down, everything is fine
+sit_command    Sit and wait for a surprise

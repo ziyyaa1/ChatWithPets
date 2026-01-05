@@ -2,9 +2,9 @@
 
 # 🐾 AI Pet Simulator
 
-**AI Pet Simulator** is an interactive virtual pet simulation application built using **Java**.  
+**AI Cat Simulator** is an interactive virtual pet simulation application built using **Java**.  
 It uses **Natural Language Processing (NLP)** with **Apache OpenNLP** to detect user intents and respond intelligently.  
-The graphical interface and animations are developed using **Java Swing**, making the pet's actions fun and visually engaging.
+The graphical interface and animations are developed using **Java Swing**, making the cat's actions fun and visually engaging.
 
 ## 👾 Features
 
